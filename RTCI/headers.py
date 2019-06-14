@@ -1,0 +1,11 @@
+from biogeme.expressions import *
+pass_ID=Variable('pass_ID')
+scenario=Variable('scenario')
+time_crit=Variable('time_crit')
+B_cr4first=Variable('B_cr4first')
+B_cr3first=Variable('B_cr3first')
+B_cr3second=Variable('B_cr3second')
+B_cr2second=Variable('B_cr2second')
+IVT_time=Variable('IVT_time')
+WT_time=Variable('WT_time')
+output_choice=Variable('output_choice')
